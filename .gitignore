@@ -766,4 +766,7 @@ FodyWeavers.xsd
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
+# Resources
+.*rc
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,webstorm+all,visualstudiocode,visualstudio,sublimetext,node,angular,react
